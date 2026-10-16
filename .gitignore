@@ -1,0 +1,13 @@
+.env
+__pycache__/
+.pytest_cache/
+venv/
+.venv/
+*.pyc
+test_*.py
+.vscode/
+reports/
+uploads_projects/
+.coverage*
+*.md
+!README.md
